@@ -16,7 +16,6 @@ public class Bolitin1_Ejercicio1 {
     public static void main(String[] args) {
         // Mensaje para el Ejercicio 2
         System.out.println("¡Hola, este es un cambio en la nueva rama!");
-        System.out.println("Esto es para el conflicto, este es la rama secundaria");
     }
     
 }
