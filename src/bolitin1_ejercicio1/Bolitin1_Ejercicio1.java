@@ -14,7 +14,8 @@ public class Bolitin1_Ejercicio1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Mensaje para el Ejercicio 2
+        System.out.println("¡Hola, este es un cambio en la nueva rama!");
     }
     
 }
